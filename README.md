@@ -1,16 +1,16 @@
-### Hi there 👋
+[1.1]: https://github.com/MaxAltena/MaxAltena/blob/master/assets/icons/icons8-linkedin-48.png
+[2.1]: https://github.com/MaxAltena/MaxAltena/blob/master/assets/icons/icons8-github-48.png
+[1.2]: https://www.linkedin.com/in/MaxAltena
+[2.2]: https://www.github.com/MaxAltena
 
-<!--
-**MaxAltena/MaxAltena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MaxAltena.visitor-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Max — a **developer** building (web)applications and other cool stuff! Some people call me a **robot** 🤖 because I'm into coding that much.
+
+[![linkedin Maxaltena][1.1]][1.2]
+[![github MaxAltena][2.1]][2.2]
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
