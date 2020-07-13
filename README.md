@@ -13,4 +13,7 @@ I'm Max — a **developer** building (web)applications and other cool stuff! Som
 [![github MaxAltena][2.1]][2.2]
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
