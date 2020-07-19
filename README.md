@@ -12,8 +12,6 @@ I'm Max — a **developer** building (web)applications and other cool stuff! Som
 
 <!--START_SECTION:waka-->
 ```text
-Week #29 : July 13 - 18
-
 
 ```
 <!--END_SECTION:waka-->
