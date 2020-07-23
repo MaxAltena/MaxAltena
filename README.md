@@ -12,6 +12,6 @@ I'm Max — a **developer** building (web)applications and other cool stuff! Som
 
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
